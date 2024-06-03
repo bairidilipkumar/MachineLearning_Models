@@ -4,7 +4,7 @@
 
 
 
-This repository will contain machine learning Models constructed from the ground up using both pandas,sklearn and Spark, alongside various other tools and techniques. ![6269b51ba5b689f85c8f2331_last](https://github.com/bairidilipkumar/MachineLearning_Models/assets/62551130/4eb74fac-9986-409a-ac08-64b8c43fd6ae)
+This repository will contain machine learning Models constructed from the ground up using both pandas,sklearn and Spark, alongside various other tools and techniques. ![Machine-Learning-Definition](https://github.com/bairidilipkumar/MachineLearning_Models/assets/62551130/028fff18-7596-42ad-b9a5-a65a755e1a0b)
 
 
 
